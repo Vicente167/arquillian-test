@@ -1,3 +1,4 @@
 .idea/
 buildAndRun.sh
 arquillian-test.iml
+target/
